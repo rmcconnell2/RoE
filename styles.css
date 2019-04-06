@@ -66,7 +66,8 @@ body {
   background-position: center;
   background-size: contain;
   background-color: red;
-  height: 30vh;
+  height: 200px;
+  bottom: 0;
 }
 
 #discord {
